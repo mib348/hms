@@ -1,0 +1,95 @@
+	hr {
+	    margin-top: 5px !important;
+	    margin-bottom: 5px !important;
+	}
+	
+	/* div.content-wrapper{
+	    padding-top: 10px !important;
+	    padding-left: 10px !important;
+	    padding-right: 0px !important;
+	}
+	*/
+	
+	.topnavbar{background-color: #3a545d !important;background-image:none;background-repeat:no-repeat;}
+	.sidebar li{border-bottom: 1px solid lightgray}
+	.sidebar li em, .sidebar li span{color:white;}
+	
+	.topnavbar .navbar-header .brand-logo > img, .topnavbar .navbar-header .brand-logo-collapsed > img {
+	    margin: 0 !important;
+	} 
+	
+	.menu_btn:hover{color:cyan !important;cursor: pointer;}
+	
+	
+	@media only screen and (min-width: 768px){
+	    .wrapper > .aside, .wrapper > .aside .aside-inner {
+	        width: 150px !important;
+	    }
+	    .wrapper > section, .wrapper > footer {
+	        margin-left: 150px;
+	    }
+	}
+	
+	@media (min-width: 768px){
+	    .navbar-right {
+	        float: right !important;
+	        margin-right: -10px;
+	    }
+	    #toggleSidebar{
+	        display: none;
+	    }
+	}
+	
+	@media only screen and (min-width: 768px){
+	    .topnavbar .navbar-header {
+	        width: 150px;
+	        text-align: center;
+	    }
+	}
+	
+	@media only screen and (max-width: 767px){
+	    .csstransforms3d .aside-toggled .wrapper > section, .csstransforms3d .aside-toggled .wrapper > footer {
+	        -webkit-transform: translate3d(150px, 0, 0);
+	        transform: translate3d(150px, 0, 0);
+	    }
+	    .wrapper > .aside, .wrapper > .aside .aside-inner {
+	        width: 150px !important;
+	    }
+	    div.content-heading{
+	        padding-left: 10px !important;
+	    }
+	}
+	
+	@media only screen and (min-width: 768px){
+	    .content-wrapper > h3, .content-wrapper > .content-heading {
+	        padding-top: 13px !important;
+	        padding-bottom: 13px !important;
+	    }
+	    div.col-md-2.col-xs-12{
+	        margin-bottom: 5px;
+	    }
+	    .content-wrapper > h3, .content-wrapper > .content-heading {
+	        margin: -20px;
+	        margin-bottom: 20px;
+	        padding: 20px;
+	        padding-top: 10px !important;
+	        padding-left: 15px !important;
+	        padding-right: 0px !important;
+	    }
+	}
+	
+	
+	.rtm5{
+	    margin-top: 5px;
+	}
+	
+
+	.select2-container {
+	  max-width: 100% !important;
+	}
+	.select2-selection--single,
+	.select2-selection--focus,
+	.select2-selection--multiple {
+	  border: 1px solid #dde6e9;
+	  box-shadow: 0 0 0 #000 !important;
+	}
