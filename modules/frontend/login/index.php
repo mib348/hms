@@ -15,7 +15,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui" />
     <meta name="description" content=" - Hospital Management System" />
-    <meta name="keywords" content="rhms, hms, hospital, management, system, , group, software, project, tool" />
+    <meta name="keywords" content="rhms, hms, hospital, management, system, digitalmib, binarytech, software, project, tool" />
     <meta name="author" content="" />
     <meta name="creation_date" content="2017-11-02" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -81,7 +81,7 @@
             <span>&copy;</span>
             <span>2016</span>
             <span>-</span>
-            <a href="https://www.group.com/" target="_blank"><span>GROUP</span></a>
+            <a href="https://www.binarytech.org/" target="_blank"><span>BinaryTech</span></a>
          </div>
       </div>
    </div>
